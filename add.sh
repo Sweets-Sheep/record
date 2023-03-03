@@ -1,3 +1,4 @@
 git add -A
 git commit -m "new"
-git push origin mater
+150341
+git push origin master
